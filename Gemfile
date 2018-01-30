@@ -36,5 +36,5 @@ group :development do
   gem 'sqlite3'
 end
 group :production do
-  gem 'pg', '1.0.0'
+  gem 'pg', '~> 0.20'
 end
